@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:42.428871
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:38
 #+TITLE: 寶藏論
 #+PROPERTY: CBETA_ID T45n1857
 #+PROPERTY: ID KR6m0037
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1857
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0037_T_000-0143b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0037_T_001-0143b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1857¶
-
- 寶藏論¶
+No. 1857¶
+寶藏論¶
 ¶
 長安沙門釋僧肇著¶
 
-1廣照空有品
-:PROPERTIES:
-:head: 廣照空有品第一
-:END:
-¶
+* 廣照空有品第一¶
 
 空可空非真空。色可色非真色。真色無形。真¶
 空無名。無名名之父。無色色之母。為萬物之¶
@@ -229,11 +224,7 @@ No.1857¶
 倫。故經云。隨其心淨。則佛土淨。任用森羅。¶
 其名曰聖。¶
 
-2離微體淨品
-:PROPERTIES:
-:head: 離微體淨品第二
-:END:
-¶
+* 離微體淨品第二¶
 
 其入離。其出微。知入離外。塵無所依。知出微¶
 內。心無所為。內心無所為。諸見不能移。外塵¶
@@ -432,11 +423,7 @@ No.1857¶
 際理空不可名目。是以涅槃大寂般若無知。¶
 圓滿法身一切限量相寂滅也。¶
 
-3本際虛玄品
-:PROPERTIES:
-:head: 本際虛玄品第三
-:END:
-
+* 本際虛玄品第三
 <pb:KR6m0037_T_001-0148a>¶
 
 夫本際者。即一切眾生無礙涅槃之性也。何¶
